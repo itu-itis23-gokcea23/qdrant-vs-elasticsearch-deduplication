@@ -1,0 +1,6 @@
+qdrant-client==1.9.1
+sentence-transformers==2.7.0
+elasticsearch==8.13.0
+faker==24.0.0
+rich==13.7.1
+numpy==1.26.4
