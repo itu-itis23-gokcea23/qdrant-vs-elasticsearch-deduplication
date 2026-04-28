@@ -1,4 +1,4 @@
-1. What is this tool?
+## 1. What is this tool?
 Qdrant is a high-performance, open-source vector database and similarity search engine written in Rust. It is specifically designed to store, manage, and search high-dimensional vector embeddings, making it an essential tool for AI-native data engineering pipelines and semantic search applications. Unlike traditional keyword-based search engines, Qdrant utilizes advanced algorithms like HNSW to find conceptual similarities between data points in real-time.
 
 ## 2. Prerequisites
