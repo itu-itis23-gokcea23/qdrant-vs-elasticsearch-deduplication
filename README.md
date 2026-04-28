@@ -53,7 +53,7 @@ python3 scripts/load_elasticsearch.py
 python3 scripts/search_compare.py --query "kargom paramparça gelmiş" 
 
 
-
+```
 ## 5. Expected Output
 
 When you run the `search_compare.py` script, the system compares traditional keyword search (Elasticsearch) with semantic vector search (Qdrant).
