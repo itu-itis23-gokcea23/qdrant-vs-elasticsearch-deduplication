@@ -63,3 +63,17 @@ When you run the `search_compare.py` script, the system compares traditional key
 
 ![Terminal Çıktısı](ex1.png)
 ![Terminal Çıktısı](ex2.png)
+
+
+## 🤖 AI Usage Disclosure
+
+### Tools Used
+- Gemini 3 Flash (Google)
+- ChatGPT (OpenAI)
+
+### Purpose
+AI tools were used for the following tasks:
+
+- Generating the synthetic Turkish e-commerce complaint dataset   
+- Structuring and writing the Python logic for comparison between Elasticsearch and Qdrant  
+- Formatting and refining this README for technical clarity
